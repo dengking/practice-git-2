@@ -1,2 +1,2 @@
 # practice-git-2
-practice git
+To practice git submodule, I create this repository.
